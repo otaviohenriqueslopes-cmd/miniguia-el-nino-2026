@@ -105,6 +105,22 @@ Um cuidado adotado durante os testes foi solicitar que as respostas fossem elabo
 
 ---
 
+## 📸 Evidências do NotebookLM
+
+### Fontes utilizadas no caderno
+
+![Fontes adicionadas ao NotebookLM](COLE_AQUI_O_LINK_DA_IMAGEM)
+
+### Teste de prompt
+
+![Teste de prompt no NotebookLM](COLE_AQUI_O_LINK_DA_IMAGEM)
+
+### Prompt estruturado e referências
+
+![Prompt estruturado no NotebookLM](COLE_AQUI_O_LINK_DA_IMAGEM)
+
+---
+
 # 🧠 Engenharia de Prompts
 
 Foram testadas diferentes formas de formular perguntas para observar como a estrutura do prompt influencia o resultado.
