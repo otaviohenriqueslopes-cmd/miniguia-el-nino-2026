@@ -1,3 +1,4 @@
+<img width="479" height="926" alt="Fontes" src="https://github.com/user-attachments/assets/647324a0-6e6c-4a1c-bfe5-68b310632345" />
 # 🌎 Efeitos do El Niño no Brasil em 2026
 
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
